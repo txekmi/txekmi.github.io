@@ -19,6 +19,6 @@ async function findClassroom() {
         }
     } catch (error) {
         console.log(error.response);
-        resultDiv.textContent = "Error al consultar los datos / Errorea datuak kontsultatzerakoan";
+        resultDiv.textContent = "dError al consultar los datos / Errorea datuak kontsultatzerakoan";
     }
 }
