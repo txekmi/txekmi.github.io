@@ -8,7 +8,7 @@ async function findClassroom() {
     }
 
     try {
-        const response = await fetch('asignaturas_aulas.json');
+        const response = await fetch('./asignaturas_aulas.json');
         const data = await response.json();
         const entry = data[courseCode.toUpperCase()];
 
