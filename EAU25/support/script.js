@@ -8,7 +8,7 @@ async function findClassroom() {
     }
 
     try {
-        const response = await fetch('./asignaturas_aulas.json');
+        const response = await fetch('asignaturas_aulas.json');
         const data = await response.json();
         const entry = data[courseCode.toUpperCase()];
 
@@ -18,6 +18,7 @@ async function findClassroom() {
             resultDiv.textContent = "Código de asignatura no encontrado / Irakasgaiaren kodea ez da aurkitu.";
         }
     } catch (error) {
+        console.log(error.response);
         resultDiv.textContent = "Error al consultar los datos / Errorea datuak kontsultatzerakoan";
     }
 }
