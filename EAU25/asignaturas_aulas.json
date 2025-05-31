@@ -1,83 +1,4397 @@
 {
-    "3BKB": {
+    "2WDA": {
         "asignatura": "Lengua Castellana y Literatura II",
-        "aula": 203    },
-    "QHFY": {
+        "aula":     },
+    "VHGS": {
         "asignatura": "Lengua Vasca y Literatura II",
-        "aula": 203    },
-    "AFLR": {
-        "asignatura": "InglÃ©s",
-        "aula": 203    },
-    "ADXO": {
-        "asignatura": "Historia de la FilosofÃ­a",
-        "aula": 203    },
-    "AEEC": {
-        "asignatura": "MatemÃ¡ticas II",
-        "aula": 201    },
-    "ADBV": {
+        "aula":     },
+    "1CRS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "AEXR": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "4SQD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "5EDH": {
+        "asignatura": "Química",
+        "aula":     },
+    "2TFS": {
+        "asignatura": "Biología",
+        "aula":     },
+    "ABUE": {
         "asignatura": "Lengua Castellana y Literatura II",
-        "aula": 203    },
-    "AFTX": {
-        "asignatura": "InglÃ©s",
-        "aula": 203    },
-    "CROR": {
-        "asignatura": "FrancÃ©s",
-        "aula": 216    },
-    "AALY": {
-        "asignatura": "Historia de EspaÃ±a",
-        "aula": 203    },
-    "AEYL": {
-        "asignatura": "Historia de la FilosofÃ­a",
-        "aula": 203    },
-    "ACGX": {
-        "asignatura": "MatemÃ¡ticas Aplicadas a las Ciencias Sociales II",
-        "aula": 203    },
-    "ALHM": {
-        "asignatura": "GeografÃ­a",
-        "aula": 205    },
-    "DLLB": {
-        "asignatura": "Empresa y DiseÃ±o de Modelos de Negocio",
-        "aula": 203    },
-    "ANNW": {
-        "asignatura": "FÃ­sica",
-        "aula": 205    },
-    "EAYY": {
-        "asignatura": "Dibujo TÃ©cnico II",
-        "aula": 203    },
-    "ADIL": {
-        "asignatura": "Lengua Castellana y Literatura II",
-        "aula": 203    },
-    "CQTP": {
+        "aula":     },
+    "SLUI": {
         "asignatura": "Lengua Vasca y Literatura II",
-        "aula": 203    },
-    "AGPI": {
-        "asignatura": "InglÃ©s",
-        "aula": 203    },
-    "AEZM": {
-        "asignatura": "Historia de la FilosofÃ­a",
-        "aula": 203    },
-    "AGXL": {
-        "asignatura": "MatemÃ¡ticas II",
-        "aula": 201    },
-    "BLBU": {
-        "asignatura": "FÃ­sica",
-        "aula": 205    },
-    "EGRK": {
-        "asignatura": "Dibujo TÃ©cnico II",
-        "aula": 203    },
-    "AWKT": {
+        "aula":     },
+    "1FBS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ABLG": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "5KCC": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "2CEP": {
+        "asignatura": "Física",
+        "aula":     },
+    "5XAF": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "AEPG": {
         "asignatura": "Lengua Castellana y Literatura II",
-        "aula": 203    },
-    "ZAKZ": {
+        "aula":     },
+    "HOIC": {
         "asignatura": "Lengua Vasca y Literatura II",
-        "aula": 203    },
-    "AIEN": {
-        "asignatura": "InglÃ©s",
-        "aula": 203    },
-    "AFRC": {
-        "asignatura": "Historia de EspaÃ±a",
-        "aula": 203    },
-    "AKKP": {
-        "asignatura": "MatemÃ¡ticas Aplicadas a las Ciencias Sociales II",
-        "aula": 203    }
+        "aula":     },
+    "1VUD": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "AQXY": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "5KIL": {
+        "asignatura": "Dibujo Artístico II",
+        "aula":     },
+    "BEUP": {
+        "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+        "aula":     },
+    "AMCN": {
+        "asignatura": "Fundamentos Artísticos",
+        "aula":     },
+    "AFPK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CMUV": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "2KLJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ATSV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "1DWV": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "3NSJ": {
+        "asignatura": "Empresa y Diseño de modelos de negocio",
+        "aula":     },
+    "AJNR": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MUPE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "3BYM": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "AUDV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "6NOP": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "AJSJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "KQXN": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "3OLC": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BCBV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "3WDV": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "AKUJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VNPX": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "3TWJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "AOTX": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "AAXD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "AATA": {
+        "asignatura": "Química",
+        "aula":     },
+    "APLT": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "QGQF": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "4EPS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BCOW": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "AJQX": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "AERF": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "AUDF": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "QCOE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "4TTZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BKAN": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "5DCS": {
+        "asignatura": "Empresa y Diseño de modelos de negocio",
+        "aula":     },
+    "BCBX": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "AXNY": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "5NUJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BCVD": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "5DJB": {
+        "asignatura": "Empresa y Diseño de modelos de negocio",
+        "aula":     },
+    "AYLB": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OGPC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "5TDB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BONJ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "AQCZ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ADKB": {
+        "asignatura": "Química",
+        "aula":     },
+    "7XLN": {
+        "asignatura": "Biología",
+        "aula":     },
+    "AJYO": {
+        "asignatura": "Física",
+        "aula":     },
+    "AYLQ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "UCSI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "5VXT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BVXW": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "AQVW": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "BEMA": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "UVDH": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "7AOB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "AQXE": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "AUXR": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ANXI": {
+        "asignatura": "Química",
+        "aula":     },
+    "BZHP": {
+        "asignatura": "Biología",
+        "aula":     },
+    "BFKZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "USVG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "7UIB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BWTC": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "BFRX": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "AQFE": {
+        "asignatura": "Química",
+        "aula":     },
+    "BZSE": {
+        "asignatura": "Biología",
+        "aula":     },
+    "BINF": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ZBGY": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "8SWF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BXYF": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "BFYX": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "BECI": {
+        "asignatura": "Química",
+        "aula":     },
+    "CMBN": {
+        "asignatura": "Biología",
+        "aula":     },
+    "BKAC": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "AZZM": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "AECO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "CDOM": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "BNRR": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "AVSZ": {
+        "asignatura": "Física",
+        "aula":     },
+    "ALCR": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "BOHH": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "NCUC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "AJUB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "CNZD": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "BKZK": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "BTCS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "XZMO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "AKLO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ASYA": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "DCZZ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "CVOS": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "BTHV": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SSDP": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "AMPT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BGHT": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "CAEN": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "BTEN": {
+        "asignatura": "Física",
+        "aula":     },
+    "AMZT": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "BUIU": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "NNMO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ANQZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "DFUQ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "CAKV": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "BIFT": {
+        "asignatura": "Química",
+        "aula":     },
+    "8EWQ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "AQGX": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BUKE": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "AQXB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "AAEU": {
+        "asignatura": "Francés",
+        "aula":     },
+    "BIIZ": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "CFZG": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "CDNA": {
+        "asignatura": "Física",
+        "aula":     },
+    "6TFA": {
+        "asignatura": "Empresa y Diseño de modelos de negocio",
+        "aula":     },
+    "BUST": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VJQC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ARWV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BKWM": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "DBNI": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "BVFJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "REKW": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ASNM": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BNCC": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "DYHN": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "CJXH": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "BJQG": {
+        "asignatura": "Química",
+        "aula":     },
+    "COCK": {
+        "asignatura": "Biología",
+        "aula":     },
+    "BWHM": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MAPW": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ATNY": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "EDAP": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "CSOE": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "CTBN": {
+        "asignatura": "Biología",
+        "aula":     },
+    "CYTN": {
+        "asignatura": "Física",
+        "aula":     },
+    "BXCT": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BCSI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "AVED": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "EGMR": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "DDDQ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "BSCG": {
+        "asignatura": "Química",
+        "aula":     },
+    "CBJY": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MWTM": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "BDBE": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "BQKD": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "DOFU": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "DSYG": {
+        "asignatura": "Física",
+        "aula":     },
+    "CSYB": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "WJSP": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "BGUM": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "EHZB": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "BQYL": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "CVTO": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "UKFY": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "BHAK": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "EKIV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "DWZM": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "BZFL": {
+        "asignatura": "Química",
+        "aula":     },
+    "CVXE": {
+        "asignatura": "Biología",
+        "aula":     },
+    "DBNL": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BIJE": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HHVH": {
+        "asignatura": "Francés",
+        "aula":     },
+    "EPSH": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "DOOL": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "3DFO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "BRBO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "DFZY": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "UFHU": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "BVOK": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "DDSP": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "DYVS": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "APDR": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "DHKG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ZOFE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "BWOP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ERKD": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ELUR": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "DXBT": {
+        "asignatura": "Física",
+        "aula":     },
+    "DJBL": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "FUHO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "CBAV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "DFDV": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "EPLZ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "CBMF": {
+        "asignatura": "Química",
+        "aula":     },
+    "DDDK": {
+        "asignatura": "Biología",
+        "aula":     },
+    "DLSG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "JMKU": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "CCWT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "EXXT": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "BVPQ": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "ALSO": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "DLTE": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CWFL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "CMFR": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "FFHO": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "EWDY": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "CFXJ": {
+        "asignatura": "Química",
+        "aula":     },
+    "EDTL": {
+        "asignatura": "Física",
+        "aula":     },
+    "DTSG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "GVCO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "CMPU": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "FNQN": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "FDRK": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "EJGE": {
+        "asignatura": "Física",
+        "aula":     },
+    "ATNF": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "EBNU": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "NOLI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "CNOU": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "DFMK": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "FRZW": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "CDNG": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "DGUD": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "ECZO": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CUWR": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "FWOF": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "FHER": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "CKHW": {
+        "asignatura": "Química",
+        "aula":     },
+    "DMNO": {
+        "asignatura": "Biología",
+        "aula":     },
+    "EDVS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CWCJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "DKWZ": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "FWPJ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "CPFQ": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "JCXZ": {
+        "asignatura": "Historia del Arte",
+        "aula":     },
+    "CDZN": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "EELE": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "COCG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "CWXT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "FXJT": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "DPTN": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "EIGH": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "EIYJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "UXMY": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DCNI": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "EEYK": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "FMFL": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ELAT": {
+        "asignatura": "Física",
+        "aula":     },
+    "EKFS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VKSI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DCOE": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "GDSO": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "FONU": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "BLDU": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "ERBS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "NDXR": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DIKR": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JPEZ": {
+        "asignatura": "Francés",
+        "aula":     },
+    "GJNQ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "DCNQ": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "DSNS": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "DUZH": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "8AIG": {
+        "asignatura": "Portugués",
+        "aula":     },
+    "FFQW": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "EVXK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "KJGT": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DKBB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "GUWV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "DFCC": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "EWEN": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ZFLC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DLDY": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HBJJ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "FPLJ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "CYZY": {
+        "asignatura": "Química",
+        "aula":     },
+    "EOCS": {
+        "asignatura": "Biología",
+        "aula":     },
+    "FBLQ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "TKXE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DLMQ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HCCY": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "DQPE": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "FSYF": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "FCVK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "DMJS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KPMS": {
+        "asignatura": "Francés",
+        "aula":     },
+    "BZUX": {
+        "asignatura": "Alemán",
+        "aula":     },
+    "EIMK": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "HCDJ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "GUQQ": {
+        "asignatura": "Biología",
+        "aula":     },
+    "EMAH": {
+        "asignatura": "Dibujo Artístico II",
+        "aula":     },
+    "FDHK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "YFKL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DRJF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HKAR": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "FRIN": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "FEGH": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VGMP": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DSKQ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HLOW": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "DQUU": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "GOIK": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "FENZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "AFGM": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DULV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "EVML": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "DSWP": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "FRPF": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "HTGE": {
+        "asignatura": "Biología",
+        "aula":     },
+    "DTOI": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "FFID": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BSSH": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DWDF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HRWC": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "FYJD": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "IEPH": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "FUYV": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PEBA": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DXUF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "FOBQ": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "EEWG": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "FXSG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "GVJG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "DZOD": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "FSBJ": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "EIPF": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "GCVK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MUXW": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "EAPF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "FSPD": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "FSFF": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "DGYL": {
+        "asignatura": "Química",
+        "aula":     },
+    "EUKU": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "GFJP": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SGAF": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "EBNL": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "GJLY": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "GFPJ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "DWDG": {
+        "asignatura": "Química",
+        "aula":     },
+    "HVPX": {
+        "asignatura": "Biología",
+        "aula":     },
+    "GHJE": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CTJN": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "EFSK": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HWRB": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "GGLA": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "FARV": {
+        "asignatura": "Física",
+        "aula":     },
+    "BUSL": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "GNIF": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "KCVZ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "EGXS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HYZN": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "FHCV": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "GOFK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PEGV": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "EHQV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "GQKA": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "GNVP": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "GPOX": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MOEQ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "EMTQ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "IAJE": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "GQYM": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "BYWO": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "ALCH": {
+        "asignatura": "Tecnología e Ingeniería II",
+        "aula":     },
+    "GZHW": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "HUDA": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "EMTS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "IBYF": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "XSUG": {
+        "asignatura": "Historia del Arte",
+        "aula":     },
+    "DTXF": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "JSCU": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "GZZM": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MSCP": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "EOEZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "IGUO": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "GWTD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "EHFG": {
+        "asignatura": "Química",
+        "aula":     },
+    "HVXQ": {
+        "asignatura": "Biología",
+        "aula":     },
+    "HBCY": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "GVYR": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ERZI": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HBLE": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "IPRO": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "FIWH": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "HNLQ": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "HEVT": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "HIYB": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "KDLC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "EWWN": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "IVBE": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "GYZH": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ENKL": {
+        "asignatura": "Química",
+        "aula":     },
+    "IPIL": {
+        "asignatura": "Biología",
+        "aula":     },
+    "HOQM": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SXSA": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "EWZC": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "IWRV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "GZAL": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "FDDO": {
+        "asignatura": "Física",
+        "aula":     },
+    "HQCO": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "AAXI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "FHQB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HWUP": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "HDHH": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "EVAS": {
+        "asignatura": "Química",
+        "aula":     },
+    "JAUQ": {
+        "asignatura": "Biología",
+        "aula":     },
+    "HRXP": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "WPIB": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "FIZR": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "IXYW": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "HFEB": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "FQGL": {
+        "asignatura": "Química",
+        "aula":     },
+    "JGJV": {
+        "asignatura": "Biología",
+        "aula":     },
+    "HSQL": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "LWRF": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "FJBV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "HWXG": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "PTOO": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "HTHF": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "UMEP": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "FNPJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "IZFY": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "FWCY": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "8GVG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "FOXA": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "GPWG": {
+        "asignatura": "Dibujo Artístico II",
+        "aula":     },
+    "HYEC": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "XKLF": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "FPXZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JCYZ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "HHRW": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "FSEP": {
+        "asignatura": "Química",
+        "aula":     },
+    "FKAT": {
+        "asignatura": "Física",
+        "aula":     },
+    "CBBE": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "IBAU": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "FTOE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "FTZV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JGMV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "HPLI": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "FRTU": {
+        "asignatura": "Física",
+        "aula":     },
+    "IEQZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "WAQB": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "FUJZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "IJAP": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "JKTB": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "GJBS": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "HPBH": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "IQCJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SHHD": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "FYAF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JKWQ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "GMCW": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "IIFJ": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "IRFR": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ZOIX": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "FZLA": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "IPLC": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "HUSG": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "GICK": {
+        "asignatura": "Química",
+        "aula":     },
+    "JLKA": {
+        "asignatura": "Biología",
+        "aula":     },
+    "ITHU": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SJKX": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "GIOL": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JLEH": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "HUUO": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "FSVZ": {
+        "asignatura": "Física",
+        "aula":     },
+    "IUYU": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "GFAE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "GJLR": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JLHP": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "HYBD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "HBVC": {
+        "asignatura": "Física",
+        "aula":     },
+    "DBYE": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "JGCP": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PURL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "GNFK": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ISUL": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "IMMD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "IDCE": {
+        "asignatura": "Química",
+        "aula":     },
+    "JYWA": {
+        "asignatura": "Biología",
+        "aula":     },
+    "JLMN": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OIDI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "GTEW": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JLTK": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "IULD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "IIWL": {
+        "asignatura": "Química",
+        "aula":     },
+    "KVCT": {
+        "asignatura": "Biología",
+        "aula":     },
+    "JLQS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "AWBB": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "GXGZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JLTQ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "IVQL": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "DOFQ": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "JMJC": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MVDS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "GXOH": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JODR": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "GOHF": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "JOZL": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "YOAD": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "HCEV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JSRV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "IWCG": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "IYYC": {
+        "asignatura": "Química",
+        "aula":     },
+    "HGAJ": {
+        "asignatura": "Física",
+        "aula":     },
+    "JTMU": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "FXMS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "HCMM": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KFAU": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "HBUZ": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "IQED": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "7PQM": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "HIJN": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JTRU": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "NVWN": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "HPBZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KFLC": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "IXUD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "KAVG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ZAUH": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "HQBU": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "IYXB": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "IYOM": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "3EPN": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "HRHF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KBEB": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MANQ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "HRMA": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KFRM": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "IYYQ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "JFET": {
+        "asignatura": "Química",
+        "aula":     },
+    "MOTF": {
+        "asignatura": "Biología",
+        "aula":     },
+    "KGVO": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SESM": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "HUEP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KJFB": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "HCBL": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "KITY": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "QXBI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "HVUE": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KJSC": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "HCMF": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "JMKD": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "1ILV": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "IAEL": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KJYI": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "EWHI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "IDMJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KKCT": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "IZHH": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "IIOK": {
+        "asignatura": "Física",
+        "aula":     },
+    "KOTM": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "HFGJ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ILOO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JHAF": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "JKBG": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "JRKJ": {
+        "asignatura": "Física",
+        "aula":     },
+    "EOMD": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "KOVL": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "KMHC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "INPP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JQXW": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "JKRI": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "KQHL": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CSQM": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "IOYR": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KLJH": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "HOWT": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "LCCO": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "KQLJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BBNP": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ISMG": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KSJY": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "KCPX": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "JLLC": {
+        "asignatura": "Química",
+        "aula":     },
+    "MROI": {
+        "asignatura": "Biología",
+        "aula":     },
+    "KZTZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "QMGS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "IVSB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "JRTY": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "KDCG": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "LAFS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "HMGJ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "JCFT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LCWV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "IWMD": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "LCMH": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "JIRO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "JKIX": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LLGA": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "KHAU": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "JYKP": {
+        "asignatura": "Química",
+        "aula":     },
+    "JZIO": {
+        "asignatura": "Física",
+        "aula":     },
+    "FCHS": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "LDII": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ZEOA": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "JLDZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LPVK": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "KIOX": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "KAUY": {
+        "asignatura": "Química",
+        "aula":     },
+    "KLCV": {
+        "asignatura": "Física",
+        "aula":     },
+    "FPYH": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "LELR": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "JNIV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LSPT": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "KKRI": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "KKJR": {
+        "asignatura": "Química",
+        "aula":     },
+    "KVLW": {
+        "asignatura": "Física",
+        "aula":     },
+    "GVKR": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "LFPY": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "LVSC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "JORX": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KKRC": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "IYCE": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "LGQL": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MMWH": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "JRWI": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LWEK": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "KMGN": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "LLAB": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "UXSW": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "JVVG": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "MEYY": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "KUKD": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "LNDR": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "FLQC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "JXUK": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "MGGD": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "KOAR": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "4XLF": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "KFWY": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LSPE": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "WDNE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "KKQJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "MVHT": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "KPHV": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "LBJW": {
+        "asignatura": "Física",
+        "aula":     },
+    "HZXO": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "LTXK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CHEM": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "KPZL": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KMFA": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "KXTD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "LTXU": {
+        "asignatura": "Química",
+        "aula":     },
+    "NEIG": {
+        "asignatura": "Biología",
+        "aula":     },
+    "KPZS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KYNA": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "LDGS": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "LERC": {
+        "asignatura": "Física",
+        "aula":     },
+    "IOJX": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "LUBK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "DKEO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "KTOO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "MVWE": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "LFIB": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "MBIL": {
+        "asignatura": "Química",
+        "aula":     },
+    "LZNX": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CNKO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "KUGC": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "KTUA": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "MDVB": {
+        "asignatura": "Dibujo Artístico II",
+        "aula":     },
+    "DPAW": {
+        "asignatura": "Diseño",
+        "aula":     },
+    "FDRM": {
+        "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+        "aula":     },
+    "MALX": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OGNZ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "KVDJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "MYMP": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "SQCA": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "MCJK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "LETS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "MZMV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "LJZP": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "MLGN": {
+        "asignatura": "Química",
+        "aula":     },
+    "NINI": {
+        "asignatura": "Biología",
+        "aula":     },
+    "MLPT": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "LSIE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "LOSL": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "NKUN": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "LLBA": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "MMCQ": {
+        "asignatura": "Química",
+        "aula":     },
+    "NOWS": {
+        "asignatura": "Biología",
+        "aula":     },
+    "MLQU": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "XIFC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "LPMV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "NQED": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "LXUW": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "MMIA": {
+        "asignatura": "Química",
+        "aula":     },
+    "MLWZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MNLK": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "LQIO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "NRXK": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "MFGS": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "OGJS": {
+        "asignatura": "Química",
+        "aula":     },
+    "NSIO": {
+        "asignatura": "Biología",
+        "aula":     },
+    "MMFL": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "LEYQ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "LUEF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LAOF": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "KYUW": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "MOJH": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "EQFG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "LULY": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "NUAQ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "MILK": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "MPRG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "EOFL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "LUUJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "NZEY": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "MNUN": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "MVYB": {
+        "asignatura": "Física",
+        "aula":     },
+    "JBVH": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "MSKS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PPTD": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "LVXN": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "OFHJ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "MPKX": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "NFTS": {
+        "asignatura": "Física",
+        "aula":     },
+    "LTQJ": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "KJVO": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "MTKW": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "LWFP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LJMV": {
+        "asignatura": "Francés",
+        "aula":     },
+    "LIPH": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "LUZO": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "JCKX": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "LDPJ": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "MVYN": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "RTJI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "MFAB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "OHRV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "MPRM": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "OMRO": {
+        "asignatura": "Química",
+        "aula":     },
+    "OIFK": {
+        "asignatura": "Física",
+        "aula":     },
+    "MWMJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "JFLH": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "MFJM": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LKVQ": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "MQRK": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "PEQR": {
+        "asignatura": "Física",
+        "aula":     },
+    "KSRW": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "MWSM": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BUZE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "MGAE": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LLZG": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "NBCY": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "PGAQ": {
+        "asignatura": "Física",
+        "aula":     },
+    "MEBE": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "MZMP": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "XEKE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "MGBI": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "OJXM": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "NBFE": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "QRFL": {
+        "asignatura": "Física",
+        "aula":     },
+    "MPPE": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "NEYV": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BUBC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "MKPP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ONEW": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "NBGJ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "QUVD": {
+        "asignatura": "Física",
+        "aula":     },
+    "NKQD": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OSDL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "MSPH": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ONWX": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "NDPQ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "OSPC": {
+        "asignatura": "Química",
+        "aula":     },
+    "NTUH": {
+        "asignatura": "Biología",
+        "aula":     },
+    "NMKG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "KUHB": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "MULS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "OOTB": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "NDXD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "OWBD": {
+        "asignatura": "Química",
+        "aula":     },
+    "ONFE": {
+        "asignatura": "Biología",
+        "aula":     },
+    "NNZI": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "WDIC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "MVNX": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "OZRJ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "MNVN": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "NTZW": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "DEPZ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "MXYE": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LTYU": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "NHRK": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "NUJB": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "XNRS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "NCZG": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "PKJJ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "NSNC": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "NUJV": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "KOSN": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "NHGZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LUCN": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "NVXT": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "RJRJ": {
+        "asignatura": "Física",
+        "aula":     },
+    "QHDQ": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "OBFK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BRPY": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "NISN": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LWGS": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "PKSE": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ODGK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "FBDS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "NNHT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "LWVC": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "NZGP": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "OXLZ": {
+        "asignatura": "Química",
+        "aula":     },
+    "ONNB": {
+        "asignatura": "Biología",
+        "aula":     },
+    "OJKK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "WLDT": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "NPSF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "MEHD": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "NZTO": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "PUVZ": {
+        "asignatura": "Química",
+        "aula":     },
+    "RTZO": {
+        "asignatura": "Física",
+        "aula":     },
+    "OMGR": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "TKEL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "NQHZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "POMN": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "OHMX": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "RULP": {
+        "asignatura": "Física",
+        "aula":     },
+    "QLCZ": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "ONHI": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "LJCM": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "NYRK": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "MHJB": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "MVUB": {
+        "asignatura": "Dibujo Artístico II",
+        "aula":     },
+    "OBCT": {
+        "asignatura": "Diseño",
+        "aula":     },
+    "KRTJ": {
+        "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+        "aula":     },
+    "LNNV": {
+        "asignatura": "Fundamentos Artísticos",
+        "aula":     },
+    "ONLG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "URGL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "OBTU": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "PPAT": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ONAZ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "QIXQ": {
+        "asignatura": "Química",
+        "aula":     },
+    "OQLF": {
+        "asignatura": "Biología",
+        "aula":     },
+    "OPZI": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "RKOL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ODDE": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "PRBG": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ONIJ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "RUQG": {
+        "asignatura": "Física",
+        "aula":     },
+    "OSNW": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "IVSQ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "OHBD": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "PTYR": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "OPHS": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "QKBX": {
+        "asignatura": "Química",
+        "aula":     },
+    "PMCV": {
+        "asignatura": "Biología",
+        "aula":     },
+    "OYBY": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OKHF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "MSYB": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "MSGT": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "MEFC": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "PFPW": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OMMM": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "SMHD": {
+        "asignatura": "Francés",
+        "aula":     },
+    "PUPW": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "NVAK": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "NNAY": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "MZBO": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "PHTS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "AOYD": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "OYPB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "PXQJ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ORIT": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "SDSH": {
+        "asignatura": "Física",
+        "aula":     },
+    "PRFM": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "XMBZ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "PADZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "QEVW": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ORSF": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "QKXU": {
+        "asignatura": "Química",
+        "aula":     },
+    "PZEY": {
+        "asignatura": "Biología",
+        "aula":     },
+    "PRRM": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "YSEJ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "PALH": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "MURG": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "NZNY": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "PUUS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "XDBU": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "PFAM": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "QFKK": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "OSCQ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "SPJG": {
+        "asignatura": "Física",
+        "aula":     },
+    "QSYL": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "PVCC": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "NWMY": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "PGLF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "NFXQ": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "OCII": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "QHOD": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SWBB": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "PKEW": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "QIDJ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "PCTS": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "QXAQ": {
+        "asignatura": "Química",
+        "aula":     },
+    "QNFI": {
+        "asignatura": "Biología",
+        "aula":     },
+    "STPV": {
+        "asignatura": "Física",
+        "aula":     },
+    "QLKS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CXHB": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "PPCX": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "QLWD": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "PFOX": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "RWEC": {
+        "asignatura": "Química",
+        "aula":     },
+    "QRJT": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CVAQ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "PTEL": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "NMHK": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "OHMU": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "QSFN": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SAGT": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "PUAF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "NOSN": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "OOWF": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "NRNE": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "QULU": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "NZDL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "PVBY": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "QTPO": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "PCXV": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "NVIQ": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "QWLI": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PVWF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "QXNZ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ODQS": {
+        "asignatura": "Dibujo Artístico II",
+        "aula":     },
+    "ROZX": {
+        "asignatura": "Diseño",
+        "aula":     },
+    "OGGW": {
+        "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+        "aula":     },
+    "QXZN": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "XXQX": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QAQP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "QXUD": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "PINU": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "SDAU": {
+        "asignatura": "Química",
+        "aula":     },
+    "QPTF": {
+        "asignatura": "Biología",
+        "aula":     },
+    "RDDK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "QTBA": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QCQV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "RBCE": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "PDTE": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "OMVP": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "RDEJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "NTYG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QEMA": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "RLPY": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "PKMP": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "TYYZ": {
+        "asignatura": "Física",
+        "aula":     },
+    "QTIF": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "RETR": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ESYY": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QGZB": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "RPAT": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "PNCV": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "SFMQ": {
+        "asignatura": "Química",
+        "aula":     },
+    "SUSQ": {
+        "asignatura": "Biología",
+        "aula":     },
+    "RGPO": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BNJU": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QHVM": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "PRUM": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "SOTX": {
+        "asignatura": "Química",
+        "aula":     },
+    "SYZQ": {
+        "asignatura": "Biología",
+        "aula":     },
+    "RILW": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "JNIW": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QIWS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "NUWN": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "PTSK": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "SHBU": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "PWFP": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "SPNG": {
+        "asignatura": "Química",
+        "aula":     },
+    "RLLZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ZDRS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QJPG": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "NWSL": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "PTDY": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "UAMO": {
+        "asignatura": "Física",
+        "aula":     },
+    "RLVZ": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "RNSA": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "JCBS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QNGL": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "RSEP": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "QFPQ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "SYUE": {
+        "asignatura": "Química",
+        "aula":     },
+    "THKS": {
+        "asignatura": "Biología",
+        "aula":     },
+    "RNVV": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OHMW": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QOSN": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "OCSL": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "QEXG": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "RPYJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BNLC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QSZW": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "OEWW": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "QNTZ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "TBTD": {
+        "asignatura": "Química",
+        "aula":     },
+    "3XWJ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QTAO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "RSBQ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "RPRV": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QTJV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "RYAW": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "RHFE": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "PWIA": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "TDNZ": {
+        "asignatura": "Química",
+        "aula":     },
+    "TLHL": {
+        "asignatura": "Biología",
+        "aula":     },
+    "RTJD": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "NMDT": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "QUVP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "RZEH": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "QQAF": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "RQEF": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "RVQB": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "LFIH": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "RBAT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "SCHK": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "QQPG": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "THTT": {
+        "asignatura": "Química",
+        "aula":     },
+    "UKON": {
+        "asignatura": "Biología",
+        "aula":     },
+    "RYFV": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PCOG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "RDAY": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ONXY": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "QQTZ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "VKWZ": {
+        "asignatura": "Física",
+        "aula":     },
+    "SJKZ": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "SJGZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VJAJ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "RMWQ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "SMKL": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "QZLU": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "TIPF": {
+        "asignatura": "Química",
+        "aula":     },
+    "UYGH": {
+        "asignatura": "Biología",
+        "aula":     },
+    "SNRE": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PHXZ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "RMYQ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "SRSD": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "RMSP": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "SWYX": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SAOK": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "PBDL": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "SEKS": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "SXJW": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "YUNG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "SGFF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "SSXC": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "URJX": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "TCQP": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "RHZK": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "SKEO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "PVLP": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "SJLX": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "QNSA": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "TEFS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "GJMP": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "SMTP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "TAPI": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "RCRI": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "VNQC": {
+        "asignatura": "Física",
+        "aula":     },
+    "UPTU": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "TEVH": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ZUQH": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "SNOZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "RCCR": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "SJTN": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "TICK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "DNZY": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "SPVN": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "SRHH": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "RDZV": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "VOYM": {
+        "asignatura": "Física",
+        "aula":     },
+    "WACJ": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "TPLY": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VSKQ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "SQWL": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "TLUM": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "RNQZ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "TREN": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "QLPQ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "SVZT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "TRQU": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "SKML": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "SJLG": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "TTXT": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VZDD": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "SYBA": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "TZKU": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "RVIF": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "TMOG": {
+        "asignatura": "Química",
+        "aula":     },
+    "VETO": {
+        "asignatura": "Biología",
+        "aula":     },
+    "TWDQ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MFYI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "SZIP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "TUDE": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "SAQB": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "USTO": {
+        "asignatura": "Química",
+        "aula":     },
+    "VHHG": {
+        "asignatura": "Biología",
+        "aula":     },
+    "TZDK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "XPZP": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "SZTQ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UFJG": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "SOJS": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "SQVT": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "UBPS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "TAWM": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "TUDN": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "TMCZ": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "UDVV": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VCOO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TCXM": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "TUIN": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "SAQC": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "VBNO": {
+        "asignatura": "Química",
+        "aula":     },
+    "VQMH": {
+        "asignatura": "Biología",
+        "aula":     },
+    "UIFZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BKTZ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TFNG": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UEZV": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "SHYA": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "VLGN": {
+        "asignatura": "Química",
+        "aula":     },
+    "VQWL": {
+        "asignatura": "Física",
+        "aula":     },
+    "UJNL": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "WYYG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TFTO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "URHP": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "TRXK": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "UMKF": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "DSXC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TGYJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UWQT": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "TWNL": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "UVXO": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "TPUA": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TLPP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "VCLS": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "SION": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "VRFE": {
+        "asignatura": "Química",
+        "aula":     },
+    "WHHC": {
+        "asignatura": "Biología",
+        "aula":     },
+    "UZPP": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "KKOC": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TOAD": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "VUPM": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "SLIU": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "WCEU": {
+        "asignatura": "Química",
+        "aula":     },
+    "WNOU": {
+        "asignatura": "Biología",
+        "aula":     },
+    "VAIJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "QIMA": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TOUY": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "VVOF": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "SMOX": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "WPLC": {
+        "asignatura": "Química",
+        "aula":     },
+    "WVKY": {
+        "asignatura": "Biología",
+        "aula":     },
+    "VBIT": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OSTZ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TRJH": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UHVP": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "UCSM": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "VCGU": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "WGFY": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TSAI": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UISO": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "SRNA": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "WSQF": {
+        "asignatura": "Química",
+        "aula":     },
+    "4SYD": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TVUO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "VCNA": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MSUN": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TWZY": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "VZCD": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "UDSJ": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "VFCZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "KCZT": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TZFA": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UKRE": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ULAO": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "VGYA": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "GSQY": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "UDDO": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "VZYA": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "UMUZ": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "VHDD": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "EWEU": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "UKNS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UUED": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "SSYI": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "WFZC": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "VIIH": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VKIF": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "URNH": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "WAXH": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "SVFG": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "WMKQ": {
+        "asignatura": "Física",
+        "aula":     },
+    "VRSN": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "CTZK": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "UXJZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "WDHN": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "TJQM": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "WVRG": {
+        "asignatura": "Química",
+        "aula":     },
+    "XEQR": {
+        "asignatura": "Biología",
+        "aula":     },
+    "VTIG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PHOE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "UZXG": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UUPG": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "TNRY": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "WUMV": {
+        "asignatura": "Física",
+        "aula":     },
+    "VUYH": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OEMY": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "VADJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UVLT": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "TOIK": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "XPYM": {
+        "asignatura": "Física",
+        "aula":     },
+    "XMUO": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "VZGZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "JRAT": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "VAMN": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UWDU": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "TXZA": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "YHHI": {
+        "asignatura": "Física",
+        "aula":     },
+    "4NPB": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "TLSD": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "WDWW": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "FIOS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "VGSZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "UXCK": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "UDFN": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "WYIN": {
+        "asignatura": "Química",
+        "aula":     },
+    "YXEG": {
+        "asignatura": "Física",
+        "aula":     },
+    "WGWM": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SVZS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "VRDK": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "VPPE": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "UYGC": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "WMVD": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PWKB": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "VWJC": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "WRQM": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "VXNI": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "TZZJ": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "WNKT": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "EUXD": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "VXND": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "XDIJ": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "WGRF": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "VYXT": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "WOGD": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "QZUD": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "WGEU": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "VVVX": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "UDJI": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "WZFK": {
+        "asignatura": "Química",
+        "aula":     },
+    "XRPS": {
+        "asignatura": "Biología",
+        "aula":     },
+    "WPFO": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MBIT": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "WLDC": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "WDRY": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "UFFA": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZIWP": {
+        "asignatura": "Física",
+        "aula":     },
+    "XWEH": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "WREZ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "EFJL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "WOEP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "WGSB": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "UFNW": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "XBYG": {
+        "asignatura": "Química",
+        "aula":     },
+    "YPGQ": {
+        "asignatura": "Biología",
+        "aula":     },
+    "WRMJ": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ATQO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "WQWF": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "WKDS": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "WXNL": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "UIDX": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "XAAR": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "FVXT": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "WXME": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "WTEL": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "UJPH": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "XGJW": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PFZE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "WXOT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "XMCM": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "URGN": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "XDXU": {
+        "asignatura": "Química",
+        "aula":     },
+    "YPNR": {
+        "asignatura": "Biología",
+        "aula":     },
+    "XGYK": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "BSZN": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "XDAZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "WVMS": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "VKCD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "XJJG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "JJLL": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "XMSU": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "XDXQ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "VTET": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "XKNP": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "QEDT": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "XOBX": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "YIHS": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "XQQG": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "UVTU": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "XIAN": {
+        "asignatura": "Química",
+        "aula":     },
+    "3YKM": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "XPYX": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "XMZR": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "UPGW": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "XQCR": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "XEFA": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "VYGR": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "XSFF": {
+        "asignatura": "Química",
+        "aula":     },
+    "WPEP": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "XXKY": {
+        "asignatura": "Química",
+        "aula":     },
+    "YVDB": {
+        "asignatura": "Biología",
+        "aula":     },
+    "XOHE": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "LNCM": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "XQSE": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "XIAK": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "XTGL": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "VJSF": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "7PZX": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "XURL": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "XPAV": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "XVEZ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "YIUE": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "WTZE": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "YNQD": {
+        "asignatura": "Química",
+        "aula":     },
+    "YYFF": {
+        "asignatura": "Biología",
+        "aula":     },
+    "XUQI": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "RZTG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "XWFX": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "XQOX": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "XBXD": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "YFOL": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "XYOM": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "WJPV": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "XXRA": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "YCMT": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "XGEC": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "YTHI": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "XZMP": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OVTK": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "XYRT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "YMVA": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "YNNK": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "XEME": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "8UHV": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "YADK": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "YBFI": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VIDI": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "YBLS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "YNNP": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "QIUH": {
+        "asignatura": "Dibujo Artístico II",
+        "aula":     },
+    "OXUM": {
+        "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+        "aula":     },
+    "YDDF": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "JRCW": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "YDCP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "YPNJ": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "XORM": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZKXV": {
+        "asignatura": "Física",
+        "aula":     },
+    "YZRZ": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "YDJG": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ELZF": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "YDPV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZBQA": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "XTPP": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZMXJ": {
+        "asignatura": "Química",
+        "aula":     },
+    "ZGVB": {
+        "asignatura": "Biología",
+        "aula":     },
+    "YFPI": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "VRXK": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "YFZJ": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "YTOH": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ZBHZ": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "YOST": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "YIYM": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "MOLZ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "YJWI": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZAME": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "YACN": {
+        "asignatura": "Latín II",
+        "aula":     },
+    "YQPW": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OFQN": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "YMLS": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZANK": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "XFTR": {
+        "asignatura": "Dibujo Artístico II",
+        "aula":     },
+    "ZQKL": {
+        "asignatura": "Diseño",
+        "aula":     },
+    "ZRMM": {
+        "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+        "aula":     },
+    "QZRO": {
+        "asignatura": "Fundamentos Artísticos",
+        "aula":     },
+    "YTBI": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "IHWG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "YMOV": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZBAD": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "XVUR": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "YVCC": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "KIMX": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "YMPG": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZENY": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "XZPC": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "YYRD": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "TBQO": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "YRVE": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZCZW": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "YCNV": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "6CIS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ZDUK": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "YVNT": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "XWSL": {
+        "asignatura": "Geografía",
+        "aula":     },
+    "ZUOG": {
+        "asignatura": "Empresa y Diseño de Modelos de Negocio",
+        "aula":     },
+    "ZADL": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ZEQW": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZEZS": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "YHBW": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZQUI": {
+        "asignatura": "Química",
+        "aula":     },
+    "ZMTX": {
+        "asignatura": "Biología",
+        "aula":     },
+    "ZBFA": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "PXWS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ZIGN": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZGJU": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "YIFM": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZRBZ": {
+        "asignatura": "Física",
+        "aula":     },
+    "ZBOB": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "OTUS": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ZJTE": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZGGF": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "YTGK": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZJDT": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "ZDTN": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "UJCW": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ZSBT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZNVJ": {
+        "asignatura": "Historia de España",
+        "aula":     },
+    "YUXA": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZTKJ": {
+        "asignatura": "Física",
+        "aula":     },
+    "ZEIC": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "SYIQ": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ZTPP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZHCU": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ZFTL": {
+        "asignatura": "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "aula":     },
+    "ZLMX": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "JSUE": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ZUAW": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZPZL": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ZTHQ": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZZBE": {
+        "asignatura": "Química",
+        "aula":     },
+    "ZSMI": {
+        "asignatura": "Biología",
+        "aula":     },
+    "ZMXH": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "ZAOT": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ZWVX": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZQQS": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ZVOP": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZXCA": {
+        "asignatura": "Biología",
+        "aula":     },
+    "ZTTF": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "AKXX": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ZXBT": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZTPY": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ZWFA": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZZHC": {
+        "asignatura": "Dibujo Técnico II",
+        "aula":     },
+    "ZVUY": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "EBSN": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ZYXS": {
+        "asignatura": "Lengua Castellana y Literatura II",
+        "aula":     },
+    "GQBG": {
+        "asignatura": "Lengua Vasca y Literatura II",
+        "aula":     },
+    "ZYXP": {
+        "asignatura": "Inglés",
+        "aula":     },
+    "ZZBQ": {
+        "asignatura": "Historia de la Filosofía",
+        "aula":     },
+    "ZYLP": {
+        "asignatura": "Matemáticas II",
+        "aula":     },
+    "ZVYC": {
+        "asignatura": "Física",
+        "aula":     }
 }
