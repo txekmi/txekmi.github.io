@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    background-color: greenyellow;
+    background-color: white
     padding: 5px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -36,7 +36,7 @@ h1 {
 
 label {
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     text-align: center;  /* Centramos el texto del label */
 }
 
